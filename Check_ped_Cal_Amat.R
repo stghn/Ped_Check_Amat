@@ -1,8 +1,8 @@
-### Sajjad Toghiani
-### 13 Dec 2020
+### Script name: Check_ped_Cal_Amat.R
+### Purpose: Manipulate and check pedigree file and calculate the triplet format of pedigree relationship matrix (A-matrix)  
+### Author: Sajjad Toghiani
+### Released Date: 13 Dec 2020
 ### Last Modified: 13 Dec 2020
-
-### Manipulate and check pedigree file and calculate the triplet format of pedigree relationship matrix (A-matrix)  
 
 rm(list = ls())
 
